@@ -1,0 +1,7 @@
+{
+    "api_key": "INSERT_YOUR_API_KEY_HERE",
+    "api_endpoint": "https://api.openai.com/v1/chat/completions",
+    "model": "gpt-4-vision-preview",
+    "role": "user",
+    "content": "What’s in this image?"
+}
