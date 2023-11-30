@@ -8,6 +8,10 @@ This project is a GUI application designed to interact with OpenAI's GPT-4 Visio
 - Display AI-generated descriptions of the images.
 - Configurable settings for API interaction.
 
+# Example
+![image](https://github.com/Blancochuy/VisionOpenAI/assets/31781758/660a4bcb-c476-4e16-92ec-3785f5ae367f)
+
+
 ## Installation
 
 Before you begin, ensure you have Python installed on your system. This project requires Python 3.x.
@@ -28,7 +32,7 @@ Before you begin, ensure you have Python installed on your system. This project 
 ## Usage
 
 To start the application, run:
-    ```bash
+    ```
     python main.py
     ```
 The GUI window will open, where you can upload images and interact with the GPT-4 Vision API.
